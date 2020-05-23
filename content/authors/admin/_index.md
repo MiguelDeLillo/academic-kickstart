@@ -9,8 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-[comment] # Role/position
-[comment] role: 
+[] # (# Role/position)
+[] # (role: )
 
 # Organizations/Affiliations
 organizations:
