@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Michelangelo V. A. Carocci 
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: $x^2$ 
 
 # Organizations/Affiliations
 organizations:
